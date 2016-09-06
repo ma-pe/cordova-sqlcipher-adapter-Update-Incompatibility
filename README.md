@@ -1,0 +1,1 @@
+# cordova-sqlcipher-adapter-Update-Incompatibility
